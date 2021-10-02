@@ -101,4 +101,4 @@ Vertex 3 : 750 1000
 Vertex 4 : 750 700
 
 ```
-<img src="https://github.com/Jidnyasa-git/Rapidly-exploring_Random_Tree/blob/main/rrt.PNG" width="800">
+<img src="https://github.com/Jidnyasa-git/Rapidly-exploring_Random_Tree/blob/main/rrt.PNG" width="750">
