@@ -5,8 +5,8 @@
 #include <random>
 #include <chrono>
 
-const int height=800;
-const int width=800;
+const int height=1000;
+const int width=1000;
 const int step_size=40;
 const int iterations=800;
 
